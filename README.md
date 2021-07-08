@@ -2,6 +2,8 @@
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
 
+[少样本图像分割榜单排行](https://paperswithcode.com/sota/few-shot-semantic-segmentation-on-pascal-5i-5)
+
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
